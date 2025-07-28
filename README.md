@@ -1,6 +1,6 @@
 ![Profile banner](https://i.imgur.com/VNP2tTx.gif)
 
-## 👋 introduction
+## introduction
 
 hi, i'm gianluca — a 15 y/o developer passionate about building open source tools, minecraft plugins, and full-stack web apps.  
 i work mainly with **javascript**, **python**, and **html/css**, and have experience with **machine learning** and **artificial intelligence**.  
@@ -25,7 +25,7 @@ i focus on clean, efficient code and real-world solutions learned by building.
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gianlu1107&theme=tokyonight)](https://streak-stats.demolab.com/?user=Gianlu1107)  
 ![Gianluca's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gianlu1107&show_icons=true&theme=tokyonight)
 
-## 💡 sponsor me
+## sponsor me
 
 if you like my projects or find my work useful, consider [supporting me on GitHub Sponsors](https://github.com/sponsors/Gianlu1107).  
 every bit helps me put more time into coding free, open-source tools.
