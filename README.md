@@ -22,6 +22,8 @@ i focus on clean, efficient code and real-world solutions learned by building.
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Arduino](https://img.shields.io/badge/arduino-00979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Tauri](https://img.shields.io/badge/tauri-%23FFC131.svg?style=for-the-badge&logo=tauri&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Pterodactyl](https://img.shields.io/badge/pterodactyl-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
