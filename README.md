@@ -9,8 +9,8 @@ i focus on clean, efficient code and real-world solutions learned by building.
 ## ⚙️ technologies i use
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
 ![Tauri](https://img.shields.io/badge/tauri-%23FFC131.svg?style=for-the-badge&logo=tauri&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/mongodb-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
