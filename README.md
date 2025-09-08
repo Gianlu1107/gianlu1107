@@ -6,7 +6,7 @@ hi, i'm gianluca — a 15 y/o developer passionate about building open source to
 i work mainly with **javascript**, **python**, and **html/css**, and have experience with **machine learning** and **artificial intelligence**.  
 i focus on clean, efficient code and real-world solutions learned by building.
 
-## ⚙️ technologies i use
+##  technologies i use
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
