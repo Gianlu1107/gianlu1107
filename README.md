@@ -27,6 +27,16 @@ i focus on clean, efficient code and real-world solutions learned by building.
 ![rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![pterodactyl](https://img.shields.io/badge/pterodactyl-181717.svg?style=for-the-badge&logo=github&logoColor=white) 
 
+## 🚀 featured projects
+
+| project                                      | tech stack                     | description                                                                                          |
+|----------------------------------------------|-------------------------------|------------------------------------------------------------------------------------------------------|
+| [AirShare](https://github.com/Gecko129/AirShare)                      | Rust, Tauri, React, TypeScript | app for transferring files over local network, high speed and without data/quality loss              |
+| [ultrasonic_sensor_gesture_detector](https://github.com/Gecko129/ultrasonic_sensor_gesture_detector) | Arduino, C++, Machine Learning | school project: detecting and recognizing gestures using an ultrasonic sensor and display            |
+| [severicraft-website](https://github.com/Gianlu1107/severicraft-website)                     | HTML, CSS, JavaScript          | website for the minecraft server severicraft                                                        |
+| [morelloinc.-uda](https://github.com/Gianlu1107/morelloinc.-uda)                      | JavaScript, HTML, CSS, Machine Learning | dreamlogger: log your dreams and analyze them with machine learning to generate detailed reports     |
+| [summer-camp-manager](https://github.com/Gianlu1107/summer-camp-manager)                | Python, HTML, CSS, JavaScript  | full-stack project for managing summer camps: attendance, activities, game scores and real-time leaderboard |
+
 ## 🔥 github stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gianlu1107&theme=tokyonight)](https://streak-stats.demolab.com/?user=Gianlu1107)  
