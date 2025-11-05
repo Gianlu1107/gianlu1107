@@ -37,8 +37,8 @@ i focus on clean, efficient code and real-world solutions learned by building.
 | [morelloinc.-uda](https://github.com/Gianlu1107/morelloinc.-uda)                      | JavaScript, HTML, CSS, Machine Learning | dreamlogger: log your dreams and analyze them with machine learning to generate detailed reports     |
 | [summer-camp-manager](https://github.com/Gianlu1107/summer-camp-manager)                | Python, HTML, CSS, JavaScript  | full-stack project for managing summer camps: attendance, activities, game scores and real-time leaderboard |
 
-## 🔥 github stats
-
+## 🔥 stats
+[![Discord Presence](https://lanyard.cnrad.dev/api/979009322791104623?idleMessage=No%20Infos%20for%20Activity%20atm)](https://discord.com/users/979009322791104623)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gianlu1107&theme=tokyonight)](https://streak-stats.demolab.com/?user=Gianlu1107)  
 ![Gianluca's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gianlu1107&show_icons=true&theme=tokyonight)
 
