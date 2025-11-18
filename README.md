@@ -2,8 +2,8 @@
 
 ## introduction
 
-hi, i'm gianluca — a 15 y/o developer passionate about building open source tools, minecraft plugins, and full-stack web apps.  
-i work mainly with **javascript**, **python**, and **html/css**, and have experience with **machine learning** and **artificial intelligence**.  
+hi, i'm gianluca, a 15 y/o developer passionate about building open source tools and full-stack web apps.  
+i work mainly with **javascript**, **python**, **react**, **node.js** and **html/css**, and have experience with **machine learning** and **artificial intelligence**.  
 i focus on clean, efficient code and real-world solutions learned by building.
 
 ##  technologies i use
