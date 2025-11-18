@@ -34,7 +34,6 @@ i focus on clean, efficient code and real-world solutions learned by building.
 | [AirShare](https://github.com/Gecko129/AirShare)                      | Rust, Tauri, React, TypeScript | app for transferring files over local network, high speed and without data/quality loss              |
 | [ultrasonic_sensor_gesture_detector](https://github.com/Gecko129/ultrasonic_sensor_gesture_detector) | Arduino, C++, Machine Learning | school project: detecting and recognizing gestures using an ultrasonic sensor and display            |
 | [severicraft-website](https://github.com/Gianlu1107/severicraft-website)                     | HTML, CSS, JavaScript          | website for the minecraft server severicraft                                                        |
-| [morelloinc.-uda](https://github.com/Gianlu1107/morelloinc.-uda)                      | JavaScript, HTML, CSS, Machine Learning | dreamlogger: log your dreams and analyze them with machine learning to generate detailed reports     |
 | [summer-camp-manager](https://github.com/Gianlu1107/summer-camp-manager)                | Python, HTML, CSS, JavaScript  | full-stack project for managing summer camps: attendance, activities, game scores and real-time leaderboard |
 
 ## 🔥 stats
