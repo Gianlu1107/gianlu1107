@@ -1,10 +1,9 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=Gianluca%20Morello&fontSize=48&fontAlignY=40&desc=Software%20Developer%20%7C%20Systems%2C%20Web%20%26%20Automation&descAlignY=62&descSize=16&fontColor=ffffff&descColor=8b949e" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/Gianlu1107/gianlu1107/main/assets/banner.png" width="100%" alt="Gianluca Morello - Header Banner" />
 
   <p align="center">
-    <a href="https://github.com/Gianlu1107?tab=repositories"><img src="https://img.shields.io/github/followers/Gianlu1107?label=Followers&style=flat-square&color=21262d&labelColor=0d1117" alt="Followers" /></a>
-    <img src="https://komarev.com/ghpvc/?username=Gianlu1107&style=flat-square&color=21262d&labelColor=0d1117" alt="Profile Views" />
+    <a href="https://github.com/Gianlu1107?tab=repositories"><img src="https://img.shields.io/github/followers/Gianlu1107?label=Followers&style=flat-square&color=238636" alt="Followers" /></a>
     <a href="https://github.com/sponsors/Gianlu1107"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=flat-square&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" /></a>
   </p>
 
