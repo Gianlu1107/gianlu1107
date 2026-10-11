@@ -21,7 +21,6 @@ Software developer focused on systems programming, full-stack web applications, 
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[CompitAPP](https://github.com/Gianlu1107/CompitAPP)** | Home Assistant add-on for academic management and grade notifications via Telegram dispatches. | Python, Home Assistant, Telegram API |
 | **[nuvolaMadisoftAPI](https://github.com/Gianlu1107/nuvolaMadisoftAPI)** | Python client and technical documentation for the Nuvola REST API ecosystem. | Python, REST API |
 | **[wattbike-ant-excel](https://github.com/Gianlu1107/wattbike-ant-excel)** | Low-level ANT+ telemetry logger for Wattbike Pro/Trainer with automated Excel formatting. | Python, ANT+ Protocol, Data Engineering |
 | **[AirShare](https://github.com/Gecko129/AirShare)** | High-throughput local network file transfer application engineered with zero compression loss. | Rust, Tauri, React, TypeScript |
